@@ -1,10 +1,10 @@
 ---
 layout:       post
-title:        "开个博客这么简单了？"
-subtitle:     "My blog."
+title:        开个博客这么简单了？
+subtitle:     My blog.
 date:         2018-02-28 12:00:00
-author:       "Tjlbj"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+author:       Tjlbj
+header-img:   img/in-post/post-eleme-pwa/eleme-at-io.jpg
 header-mask:  0.3
 catalog:      true
 multilingual: true

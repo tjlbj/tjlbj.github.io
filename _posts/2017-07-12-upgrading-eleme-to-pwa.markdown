@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "开个博客这么简单了？"
+title:        开个博客这么简单了？
 subtitle:     "My blog."
 date:         2018-02-28 12:00:00
 author:       "Tjlbj"

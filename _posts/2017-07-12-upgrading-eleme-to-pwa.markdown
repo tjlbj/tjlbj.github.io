@@ -1,9 +1,9 @@
 ---
 layout:       post
-title:        "饿了么的 PWA 升级实践"
-subtitle:     "Upgrading Ele.me to Progressive Web App"
-date:         2017-07-12 12:00:00
-author:       "Hux"
+title:        "开个博客这么简单了？"
+subtitle:     "My blog."
+date:         2018-02-28 12:00:00
+author:       "Tjlbj"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true
@@ -14,14 +14,4 @@ tags:
     - PWA
 ---
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
-</div>
-
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
+直接复制了别人的模板，博客就这么开张了。
